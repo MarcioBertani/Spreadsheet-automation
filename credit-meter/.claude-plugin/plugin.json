@@ -1,0 +1,1 @@
+{ "name": "credit-meter", "version": "0.1.0", "description": "Barra em tempo real acima do prompt com o gasto de créditos: custo da sessão, custo do último prompt, contexto e limites de uso", "types": "./types/index.d.ts" }
